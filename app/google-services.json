@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281683300235",
+    "project_id": "vtg-opencv",
+    "storage_bucket": "vtg-opencv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281683300235:android:ccbbd379afe8b39552a98e",
+        "android_client_info": {
+          "package_name": "com.example.vtg_opencv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281683300235-3a5v3e9m3bt81pmrnotjc30pdbljh9dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0EQo5KRqse39eiNsCCw3d3X0TxVuw_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281683300235-3a5v3e9m3bt81pmrnotjc30pdbljh9dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
